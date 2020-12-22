@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fiapbancographql-rafael",
+  "private_key_id": "d1c1f475c24ed2997ea4186f72e3ea60dabdbf7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3p3OwRTU+xK42\nuZfumt3JM9Y+JU+6Q79CeQKlg7i9jvn/g4AzyiZD7aR4MXIWSUu7jcoxsRKR+5+q\nDzsN/GKkAjLvwIxl805LUQ3lV0l2OEJkbRdGo8evPOXIvfSvF20cfL2Wc+zpYwhj\n9E9HDYjYMWE/c5jiOG+tw5Lrko0C3JkSfVxXRQnBm0KKZCC4OIysUAxxewpSei/p\nCiQvDpHybbbbiGrYygBlQL3+Chc+0UVaJSMlg+i8Je3fEGq029rCx3Xc6tVeZQaT\n5ntXiXj9NUNOtRYha0nXMLlIEJ3cj9byB22VmKi3AL1J3wGwzl43KocClywYSfH0\nQlRoch4vAgMBAAECggEAYEA9j1GmmwmX5/8D1KFt92flKWwY63yvFeewJqHmKA4s\njakPJ5G2g4oV9PzKqWy9OVynK971J7WS3WZj/lCMCdAs+c9tAaapVE5hRzRAgejl\nrOBVPogi8LGLYRSqx24kYwD8MkBF4IMz3J00Ppo9CEFQ2XdVAP8MMI2lSVdA5M4S\nGx106LuaG7m3T+QfeIjVU4dvbhvqW2ri3Bpb/H2wtTdH2LKZieY0nFIW+5cIPPJA\nIPGdQ02Cd5VT+P6qGJCUuwta9qzxZsvrIomop/svH6wc3H+7wyQpnP25YcGyyMcs\nORaFOUpzGR3PXY3Xj+cZJBAfgpjHKqG/x83HeeCTqQKBgQD8cWCDtf6LGuxSluqH\nyNNM3hjVlPxrSY+qA/zaI8zW+ECwEvcoBDMeYAZbUuJxKJxizRmYSIRXSXACKnDB\nRYcfK7vstJN3gvxCNDIbAIk83IpO2zQdoaxbAyUQDnCmWixI90TI0Zx/PqYxLDvk\nxwPmrwegce5PZtqV2Pjh5cWQHQKBgQD7JMz2o6mLohywos3bvscIix62E7B1K6ij\nZLutVfdp9b5g2PcxPJ27eI1cSiVZUfPoIx0mKqwHjWMZCnCS29xxlLE9ndq3vhu/\n6rUEgr4w5wj2mItj/e60w6Ej+pYfLzrzMmxixmFeOvcch6Ok+0CU6H/QJ6rswo1W\nM4iSlePtuwKBgQCC4lmzEFogT1411+9TZWlAkmp32l4hVit5b8XaZ/NdhassXzjr\n83l5hznkgY3MM80ZYNOjY/3Rr862IMEDRAQxwiAWMu2+ahhWTu+nlliRSJshFX/o\n2RkeuvutXn9DkL8jOajdIeitBJNwLUoEbLb2FMu0gT2Yx3APf0ZTASm0dQKBgDmY\nqQDva9TAKwA/diKtUAwfi72KKm/UwWonkfsgugss9qpTV+2Mz0fNT+4YexRO/TcB\nxo+YPbfFrzJw+HxVu+q4hSVybFSzXr3W4AjWyzN/6MhVF7Ko6/O84dnUgFVKiaR4\nre7BPFdWApIicV9G1/rOj3F3h3Wg8LUSQIINqiY9AoGAFM7yreNIf88T7lMDhDcj\nWLkXeJgLjVaEPP9A98MEADgHKEGF1eJrwq47uYtQWyLaNMWGrmQTJW6bSjG7or/N\nYshJ4SasBMAV2G9SlUbCB6PHyAPCixX7DUAlsJSF57F5ZJ0nAIoLOQ37JupwSHP4\nyQBj2H2EZtnMhYqsrXIMXfA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bo1sf@fiapbancographql-rafael.iam.gserviceaccount.com",
+  "client_id": "107465734551469738798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bo1sf%40fiapbancographql-rafael.iam.gserviceaccount.com"
+}
